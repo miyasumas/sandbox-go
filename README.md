@@ -1,2 +1,9 @@
 # sandbox-go
-Go を試す
+
+* execute
+
+    `go run hello.go`
+
+* test
+
+    `go test`
